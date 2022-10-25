@@ -2,5 +2,8 @@
   "private": true,
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "devDependencies": {
+    "@types/react": "^18.0.23"
+  }
 }
