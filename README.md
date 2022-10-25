@@ -3,4 +3,4 @@
 
 🚀 Em construção...
 
-Design system sde agendamento sendo criado e documentado com Storybook.
+Design system de agendamento sendo criado e documentado com Storybook.
