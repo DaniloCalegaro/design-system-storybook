@@ -3,7 +3,12 @@
   "workspaces": [
     "packages/*"
   ],
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "build": "turbo run build"
+  },
   "devDependencies": {
-    "@types/react": "^18.0.23"
+    "@types/react": "^18.0.23",
+    "turbo": "^1.6.1"
   }
 }
