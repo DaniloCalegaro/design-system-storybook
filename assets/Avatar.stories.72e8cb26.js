@@ -1,0 +1,2 @@
+import{A as t}from"./index.11aa0855.js";import"./index.4d916ca9.js";import"./iframe.1a2445fb.js";import"./index.b751a9c0.js";import"./jsx-runtime.850af171.js";const l={title:"Data display/Avatar",component:t,args:{src:"https://github.com/DaniloCalegaro.png",alt:"Danilo Calegaro"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},e=["Primary","WithFallback"];export{p as Primary,c as WithFallback,e as __namedExportsOrder,l as default};
+//# sourceMappingURL=Avatar.stories.72e8cb26.js.map
