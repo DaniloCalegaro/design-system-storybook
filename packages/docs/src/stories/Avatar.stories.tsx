@@ -7,6 +7,13 @@ export default {
   args: {
     src: 'https://github.com/DaniloCalegaro.png',
     alt: 'Danilo Calegaro'
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text'
+      }
+    }
   }
 } as Meta<AvatarProps>
 
